@@ -1,6 +1,6 @@
 ---
 title: 'Madonna in a fur coat'
-date: 26-05-2025
+date: 2025-05-26
 permalink: /posts/2025/05/madonna-in-a-fur-coat/
 tags:
   - book-review
