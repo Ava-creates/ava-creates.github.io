@@ -1,5 +1,5 @@
 ---
-title: "Head TA - CMPUT 267"
+title: "Head Teaching Assistant - CMPUT 267"
 collection: teaching
 type: "Undergraduate course"
 # permalink: https://apps.ualberta.ca/catalogue/course/cmput/267

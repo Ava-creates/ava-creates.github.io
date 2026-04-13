@@ -1,5 +1,5 @@
 ---
-title: "TA - CMPUT 291"
+title: "Teaching Assistant - CMPUT 291"
 collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2024-fall-sql
@@ -9,4 +9,3 @@ location: "Edmonton, Canada"
 link: "https://apps.ualberta.ca/catalogue/course/cmput/291"
 ---
 
-Teaching Assistant for CMPUT 291 (SQL and database management) in Fall 2024.
