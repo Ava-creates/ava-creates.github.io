@@ -1,13 +1,12 @@
 ---
-title: "Head TA - CMPUT 229"
+title: "Head TA - CMPUT 267"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-winter-cmput-229-head-ta
+# permalink: https://apps.ualberta.ca/catalogue/course/cmput/267
 venue: "University of Alberta"
-date: 2025-01-15
+date: 2025-09-01
 location: "Edmonton, Canada"
-citation: "Winter 2025 - CMPUT 229: Computer Organization and Architecture I"
-link: "https://apps.ualberta.ca/catalogue/course/cmput/229"
+citation: "Fall 2025 - CMPUT 267: Machine Learning I"
+link: "https://apps.ualberta.ca/catalogue/course/cmput/267"
 ---
 
-Served as Head TA for CMPUT 229 in Winter 2025.

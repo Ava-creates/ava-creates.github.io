@@ -1,12 +1,11 @@
 ---
-title: "Teaching Assistant - Compiler Course"
+title: "Teaching Assistant - CMPUT 229"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-winter-compiler
+# permalink: /teaching/2025-winter-cmput-229
 venue: "University of Alberta"
-date: 2025-01-01
+date: 2025-01-15
 location: "Edmonton, Canada"
-citation: "Winter 2025 - Compiler course"
+citation: "Winter 2025 - CMPUT 229: Computer Organization and Architecture I"
+link: "https://apps.ualberta.ca/catalogue/course/cmput/229"
 ---
-
-Served as a Teaching Assistant for a compiler course in Winter 2025.
