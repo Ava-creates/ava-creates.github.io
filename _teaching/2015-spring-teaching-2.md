@@ -6,6 +6,5 @@ type: "Undergraduate course"
 venue: "University of Alberta"
 date: 2025-01-15
 location: "Edmonton, Canada"
-citation: "Winter 2025 - CMPUT 229: Computer Organization and Architecture I"
 link: "https://apps.ualberta.ca/catalogue/course/cmput/229"
 ---
