@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - CMPUT 229"
+title: "Teaching Assistant - CMPUT 229: Computer Organization and Architecture I"
 collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2025-winter-cmput-229

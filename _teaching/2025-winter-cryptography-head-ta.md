@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant- CMPUT 331"
+title: "Teaching Assistant - CMPUT 331: Computational Cryptography II"
 collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2026-winter-computational-cryptography-2-head-ta

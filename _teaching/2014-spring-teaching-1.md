@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - CMPUT 291"
+title: "Teaching Assistant - CMPUT 291: Introduction to File and Database Management"
 collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2024-fall-sql
