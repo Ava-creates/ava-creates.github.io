@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant - Compiler Course"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2025-winter-compiler
+venue: "University of Alberta"
+date: 2025-01-01
+location: "Edmonton, Canada"
+citation: "Winter 2025 - Compiler course"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Served as a Teaching Assistant for a compiler course in Winter 2025.
