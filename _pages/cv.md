@@ -15,12 +15,9 @@ redirect_from:
 
 ## Education
 
-**University of Alberta, Canada** — M.Sc. Computer Science | GPA: 3.5/4.0
-*Sep 2024 – May 2026*
+**University of Alberta, Canada** — M.Sc. Computer Science | GPA: 3.5/4.0 | Sep 2024 – May 2026  
 Coursework: Machine Learning and Privacy, Reinforcement Learning, Single Agent Search, NeuroSymbolic Reasoning
-
-**New York University Abu Dhabi (NYUAD), UAE** — B.Sc. Computer Science, Minor in Applied Mathematics | GPA: 3.8/4.0
-*Sep 2020 – May 2024*
+**New York University Abu Dhabi (NYUAD), UAE** — B.Sc. Computer Science, Minor in Applied Mathematics | GPA: 3.8/4.0 | Sep 2020 – May 2024  
 Coursework: Applied Machine Learning, Operating Systems, Database Systems, Computer Networks, Algorithms, Applied Cryptography, Probability & Statistics, Linear Algebra
 
 ---
