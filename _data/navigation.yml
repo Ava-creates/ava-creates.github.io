@@ -14,8 +14,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Books Read"
-    url: /year-archive/
+  # - title: "Books Read"
+  #   url: /year-archive/
     
   - title: "Resume"
     url: /cv/
